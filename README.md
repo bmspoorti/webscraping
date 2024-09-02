@@ -1,1 +1,2 @@
-# webscraping
+# Web Scraping
+The uploaded .py scripts contains code for web scraping data of 6 different websites in 2 domains. The testhypeauditor.py, top200.py and testsacnilk.py are codes for the website for Top Instagrammers in the past few years with data like name, rank, number of followers, increase/decrease in the followers, change in ranking and theur profile picture. The bcci.py, espn.py, mykhel.py are the codes for top cricketers in ODI(one day international) format of cricket. The data consists of most sixes, most fours, most wickets, most fifties, most hundreds, highest scorers, picture of the cricketers and so on. The data from these websites for further used in the Data Engineering project where it was used for storing and handling data with SQL.
